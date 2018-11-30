@@ -1,2 +1,0 @@
-# tranquitronco
-servicio de prueba
